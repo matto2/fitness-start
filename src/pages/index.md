@@ -4,9 +4,13 @@ title: Nice Tat Astro Template
 ---
 <!-- Markdown Preview - https://dillinger.io/ -->
 
-# Nice Tat Astro Template
+# Silver Coast Fitness - Coming soon!!
 
-[youtube](https://www.youtube.com/watch?v=sEyHnHjhlr4)
+![Coming Soon!](https://media.giphy.com/media/3o7aD4WmSr6b9LgOli/giphy.gif)
+
+
+
+<!-- [youtube](https://www.youtube.com/watch?v=sEyHnHjhlr4)
 
 [instagram](https://www.instagram.com/caseyneistat/)
 
@@ -14,4 +18,4 @@ title: Nice Tat Astro Template
 
 [twitter](https://twitter.com/Casey)
 
-[contact](/contact)
+[contact](/contact) -->
